@@ -10,4 +10,4 @@ This is a real-time chat application built using ReactJS, CSS, and HTML. The app
 - **Responsive Design**: Mobile-friendly and responsive user interface.
 
 ## Live Demo
-Check out the live demo of the chat application here : 
+Check out the live demo of the chat application here : https://chatifybypranjay.vercel.app/
